@@ -24,3 +24,9 @@ from datetime import datetime
 - 메세지 보낸 사람 IP 표시
 - 참여 IP, PORT, PING 표시
 - PING 수동 확인
+
+***
+Server_ping.ui : PyQt로 만든 ui 파일  
+server_g.py : Server_ping.ui 파일과 연동된 소스코드 파일  
+server_s2.py : 소켓통신이 이루어지는 소스코드 파일  
+***
