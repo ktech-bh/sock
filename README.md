@@ -1,5 +1,9 @@
 # Socket_Server by python
 
+***1. Server_ping.ui 파일과 같은 경로에서 server_g.exe 실행***  
+***2. Port 번호 입력 후 Open 클릭***  
+***3. Ping 버튼은 테스트 할 ip를 선택 후 클릭***  
+
 ## 개발 환경
 - python==3.9
 - PyQt5==5.15.6
