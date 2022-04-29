@@ -28,6 +28,7 @@ from datetime import datetime
 - 메세지 보낸 사람 IP 표시
 - 참여 IP, PORT, PING 표시
 - PING 수동 확인
+- 메세지 Clear
 
 ***
 Server_ping.ui : PyQt로 만든 ui 파일  
